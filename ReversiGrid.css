@@ -1,0 +1,5 @@
+.ReversiGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 50px);
+  gap: 4px;
+}
